@@ -52,19 +52,15 @@ Internetadresse youtube.com ein,
 > Damit wir hier unsere gültige E-Mail und darauf folgend deren
 > Paasswort eingeben
 
-![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image2.png){width="6.602777777777778in"
-height="2.013888888888889in"}
+![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image2.png)
 
-> ![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image3.png){width="2.3208333333333333in"
-> height="2.0236100174978127in"}
+> ![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image3.png)
 >
 > Hier genügt es unsere Handynummer einzugeben und den Dialog zu
 > bestätigen.
 >
-> ![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image4.png){width="3.4402777777777778in"
-> height="1.8986100174978127in"}
-> ![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image5.png){width="2.8180555555555555in"
-> height="2.5055544619422574in"}
+> ![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image4.png)
+> ![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image5.png)
 
 Und dann wie im rechten Bild auf den rot markierten „not
 
@@ -75,14 +71,11 @@ Und dann wie im rechten Bild auf den rot markierten „not
 Den darauf folgend, unten links abgebildeten Dialog bestätigen wir
 einfach mit „Kanal erstellen"
 
-> ![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image6.png){width="2.973611111111111in"
-> height="2.488888888888889in"}
+> ![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image6.png)
 >
-> ![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image7.png){width="3.058333333333333in"
-> height="1.2152777777777777in"}
+> ![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image7.png)
 >
-> ![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image8.png){width="3.0819433508311462in"
-> height="1.211111111111111in"}
+> ![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image8.png)
 
 Damit wir eine Anfrage zum Livestreamen durch klick stellen und
 bestätigen.
@@ -91,18 +84,15 @@ In einem neu erscheinenden Fenster geben wir unsere Telefonmmer ein und
 erhalten unmittelbar einen Code auf unser Handy gsendet, den wir im
 nächsten Dialog eingeben und ebenfalls bestätigen
 
-![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image9.png){width="2.6819444444444445in"
-height="3.5944444444444446in"}
+![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image9.png)
 
-> ![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image10.png){width="2.638888888888889in"
-> height="3.511111111111111in"}
+> ![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image10.png)
 >
 > *Bilder: Heute letzter schritt, die Telefoncode-Bestetigung*
 >
 > Nun warten wir 24 Stunden
 >
-> ![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image11.png){width="4.223611111111111in"
-> height="2.4513877952755907in"}
+> ![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image11.png)
 >
 > **YouTube-Benutzerkonto-konfiguration**
 >
@@ -111,14 +101,12 @@ height="3.5944444444444446in"}
 > „" und starten mit zwei klicks, wie im Bild markiert zu sehen den
 > Einstiegsdialog zur Livestreamkonfiguration.
 
-![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image12.png){width="6.6930555555555555in"
-height="3.0166666666666666in"}
+![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image12.png)
 
 > Sollte der Dialog nicht automatisch starten muss man im rot Markierten
 > Bereich des unteren Bildes auf „Stream planen" klicken
 
-![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image13.png){width="6.6930555555555555in"
-height="3.765277777777778in"}
+![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image13.png)
 
 > In diesem Dialog werden selbsterklärende Dinge erfragt dies sich nach
 > dessen Abschluss noch vor dem Start des Streams, und viele auch danach
@@ -132,8 +120,7 @@ height="3.765277777777778in"}
 > Streams erfahren. **Wir benötigen nur den rot markierten Teil und
 > Kopieren uns den in ein Textdokument**
 
-![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image14.png){width="6.6930555555555555in"
-height="3.763888888888889in"}
+![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image14.png)
 
 > Der magentafarben markierte Punkt zeigt uns uns in vier Stufen bis zu
 > „sehr gute Qualität" an das wir keine Daten senden. Gelb markiert die
@@ -180,8 +167,7 @@ height="3.763888888888889in"}
 >
 > folgende Ausgabe
 
-![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image15.png){width="6.6930555555555555in"
-height="4.113888888888889in"}
+![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image15.png)
 
 > Um nun zu ermitteln welche der Gerätedateien dem csi-Kameramodul
 > zugewisen ist, müssen wir nacheinander die Gerätedateien /dev/video0
@@ -199,8 +185,7 @@ height="4.113888888888889in"}
 >
 > Beispielhaft erscheint folgende Bildschirmausgabe
 
-![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image16.png){width="6.6930555555555555in"
-height="6.876388888888889in"}
+![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image16.png)
 
 > Welche im magetafarben markierten Bereich zeigt das es sich hier um
 > die USB-Cam handeln muss. Das Komando
@@ -214,8 +199,7 @@ height="6.876388888888889in"}
 >
 > offenbarte folgendes
 
-![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image17.png){width="6.6930555555555555in"
-height="5.998611111111111in"}
+![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image17.png)
 
 > und im markierten Bereich die Gerätedatei als dem csi-Kameramodul
 > zugewiesen zeigt.
