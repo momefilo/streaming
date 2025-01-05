@@ -197,7 +197,7 @@ Wir geben folgende befehle nach einander ein:\
 
 wget raw.githubusercontent.com/momefilo/streaming/refs/heads/main/install.sh\
 chmod +x install.sh\
-sudo ./install.sh meine_DeviceID mein_streamkey\
+sudo ./install.sh meine_DeviceID mein_streamkey
 
 Nun warten wir bis der RPi rebootet, gehen zu Youtube zurück und
 schauen und warten noch mal eine Minute. Da ist das Bild! Nun könnt Ihr nach
