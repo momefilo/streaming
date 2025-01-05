@@ -47,8 +47,7 @@ Internetadresse youtube.com ein,
 > und klicken wie im Bild unten magentafarben markiert zu sehen ist auf
 > „Sign in"
 
-![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image1.png){width="6.6930555555555555in"
-height="1.6666666666666667in"}
+![](vertopal_640c7e047b8c428390fe3a5e0e884b7a/media/image1.png)
 
 > Damit wir hier unsere gültige E-Mail und darauf folgend deren
 > Paasswort eingeben
